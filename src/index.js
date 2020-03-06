@@ -1,7 +1,8 @@
 import _ from 'lodash';
 import React, { Component } from 'react';
 import ReactDom from 'react-dom';
-const API_KEY = 'AIzaSyADq1f9heVf4FHDW3N6CrK5qe0xNgInqmM';
+// const API_KEY = 'AIzaSyADq1f9heVf4FHDW3N6CrK5qe0xNgInqmM';
+// const API_KEY = 'AIzaSyDBJwt9ijHF-9xeoXcVt7M4RIaTPOGAcEE';
 import YtSearch from 'youtube-api-search';
 import Searchbar from './components/search_bar';
 import VideoList from './components/video_list';
